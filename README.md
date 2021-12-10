@@ -1,4 +1,5 @@
 # warung-5
 
-Jangan lupa ganti  base url, sesuai dengan url folder kalian 
-https://github.com/Jamess-2209/warung-5/issues/2#issue-1076621924
+Jangan lupa ganti  base url, sesuai dengan url folder kalian :
+
+![base url](https://user-images.githubusercontent.com/52781339/145550974-cff61c57-6756-4831-9aa9-85d633bce0b1.png)
